@@ -4,8 +4,7 @@
 
 ## About Me
 - 👀 **Interests:** Exploring new technologies, solving complex problems, and contributing to impactful projects.  
-- 🌱 **Currently Learning:** Advanced Flutter and AI integration for mobile apps.  
-- 💞️ **Looking to Collaborate On:** Innovative mobile application projects, especially in FinTech and AI-driven solutions.  
+- 🌱 **Currently Learning:** Advanced Flutter and AI integration for mobile apps. 
 - 📫 **How to Reach Me:**  
   - **Email:** areeb.hussain@idenfo.com  
   - **LinkedIn:** [Areeb Hussain Siddiqui](https://www.linkedin.com/in/asiddiqui699)  
