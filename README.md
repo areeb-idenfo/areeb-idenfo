@@ -8,7 +8,6 @@
 - 📫 **How to Reach Me:**  
   - **Email:** areeb.hussain@idenfo.com  
   - **LinkedIn:** [Areeb Hussain Siddiqui](https://www.linkedin.com/in/asiddiqui699)  
-- 😄 **Pronouns:** He/Him  
 - ⚡ **Fun Fact:** I can turn caffeine into code!  
 
 <!---
